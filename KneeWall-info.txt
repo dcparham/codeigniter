@@ -1,0 +1,4 @@
+http://www.lifelightstudios.com/customsoftwareinnovations_com/practice/segment1.php
+
+quick set up showing passed values from segment1.php to page segment2.php.
+next time, use a div for segment1 info, a div for segment2 info, and use PHP submit function to show the values on the same page [without having to post to segment2.php]
